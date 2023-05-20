@@ -16,6 +16,9 @@ The challenge is to recognize fraudulent credit card transactions so that the cu
 3. For protecting the privacy of the user the dimensionality of the data can be reduced.
 4. A more trustworthy source must be taken which double-check the data, at least for training the model.
 5. We can make the model simple and interpretable so that when the scammer adapts to it with just some tweaks we can have a new model up and running to deploy.
+
 Before going to the code it is requested to work on a jupyter notebook. If not installed on your machine you can use Google colab.
- You can download the dataset from [this link](https://www.kaggle.com/mlg-ulb/creditcardfraud/download)
- If the link is not working please go to this link and login to kaggle to download the dataset.
+
+You can download the dataset from [this link](https://www.kaggle.com/mlg-ulb/creditcardfraud/download)
+
+If the link is not working please go to this link and login to kaggle to download the dataset.
